@@ -10,7 +10,7 @@ Fork on GitHub1992
 <a href="https://dev.to/acollazo25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="acollazo25" height="30" width="40" /></a>
 <a href="https://twitter.com/acollazo25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acollazo25" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/acollazo25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acollazo25" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/acollazo25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="acollazo25" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6484464/acollazo25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="acollazo25" height="30" width="40" /></a>
 <a href="https://medium.com/@acollazo25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@acollazo25" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
